@@ -3544,6 +3544,16 @@
                 "channels": []
             },
             {
+                "time": "14:00",
+                "event": "KHL Playoffs : Traktor Chelyabinsk vs Dinamo Minsk",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "KHL Playoffs : Dynamo Moscow vs Ak Bars Kazan",
+                "channels": []
+            },
+            {
                 "time": "23:00",
                 "event": "NHL : Chicago Blackhawks vs Montreal Canadiens",
                 "channels": []
@@ -3578,6 +3588,11 @@
             {
                 "time": "15:30",
                 "event": "Poland Liga Siatkowki Wome : Stal Mielec vs. Chemik Police",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "Russia Superliga, Playoffs, Final : Zenit Kazan vs Zenit St. Petersburg",
                 "channels": []
             },
             {
