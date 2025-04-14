@@ -1719,6 +1719,26 @@
                 "time": "17:00",
                 "event": "Challenger - Sarasota (USA) : Emilio Nava vs Liam Draxl",
                 "channels": []
+            },
+            {
+                "time": "03:10",
+                "event": "Challenger - Busan (KOR) - Qualifiers : Mats Rosenkranz vs Moerani Bouzige",
+                "channels": []
+            },
+            {
+                "time": "03:10",
+                "event": "Challenger - Busan (KOR) - Qualifiers : Viktor Durasovic vs Petr Bar Biryukov",
+                "channels": []
+            },
+            {
+                "time": "03:30",
+                "event": "Challenger - Busan (KOR) : Emil Ruusuvuori vs Hyeon Chung",
+                "channels": []
+            },
+            {
+                "time": "03:30",
+                "event": "Challenger - Busan (KOR) : Jason Kubler vs Rei Sakamoto",
+                "channels": []
             }
         ],
         "Motorsport</span>": [
@@ -3051,6 +3071,11 @@
                 "channels": []
             },
             {
+                "time": "14:00",
+                "event": "AFC U17 Cup: Quarter Finals: Indonesia vs North Korea",
+                "channels": []
+            },
+            {
                 "time": "14:30",
                 "event": "Romania - Liga I : Boto\u015fani vs O\u0163elul",
                 "channels": []
@@ -3058,6 +3083,11 @@
             {
                 "time": "14:30",
                 "event": "Bulgaria - Parva Liga : Slavia Sofia vs Botev Vratsa",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "Slovenian 1st league: Dom\u017eale vs Radomlje",
                 "channels": []
             },
             {
@@ -3138,6 +3168,11 @@
             {
                 "time": "17:00",
                 "event": "Turkey - Super Lig : Ey\u00fcpspor vs Adana Demirspor",
+                "channels": []
+            },
+            {
+                "time": "17:15",
+                "event": "AFC U17 Cup: Quarter Finals: Tajikistan vs South Korea",
                 "channels": []
             },
             {
@@ -3310,6 +3345,16 @@
         ],
         "Tennis</span>": [
             {
+                "time": "04:40",
+                "event": "Challenger - Busan (KOR) : Adam Walton vs Rio Noguchi",
+                "channels": []
+            },
+            {
+                "time": "04:40",
+                "event": "Challenger - Busan (KOR) : Sho Shimabukuro vs Yuta Shimizu",
+                "channels": []
+            },
+            {
                 "time": "09:00",
                 "event": "Tennis BMW Open ATP | Round 1",
                 "channels": []
@@ -3430,6 +3475,11 @@
             {
                 "time": "15:00",
                 "event": "Liga Nationala : Rapid Bucuresti vs Dinamo Bucharest",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "Finland - Korisliga - Playoff : Salon Vilpas vs Helsinki",
                 "channels": []
             },
             {
