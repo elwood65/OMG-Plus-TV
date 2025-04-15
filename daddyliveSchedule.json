@@ -1587,6 +1587,199 @@
                 "channels": []
             }
         ],
+        "Tennis - ATP - BARCELONA</span>": [
+            {
+                "time": "09:00",
+                "event": "ATP - BARCELONA : Tsitsipas S. vs Opelka R.",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ATP - BARCELONA : Carreno-Busta P. vs Fils A.",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ATP - BARCELONA : Baez S. vs Dzumhur D.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - BARCELONA : Galan D. E. vs Ruud C.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - BARCELONA : Etcheverry T. M. vs De Minaur A.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - BARCELONA : Djere L. vs Rinderknech A.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - BARCELONA : Tiafoe F. vs Munar J.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - BARCELONA : Mpetshi Perricard G./Olivetti A. vs Erler A./Frantzen C.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - BARCELONA : Khachanov K. vs Norrie C.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - BARCELONA : Arnaldi M./Etcheverry T. M. vs Salisbury J./Skupski N.",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "ATP - BARCELONA : Alcaraz C. vs Quinn E.",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "ATP - BARCELONA : Wawrinka S. vs Davidovich Fokina A.",
+                "channels": []
+            }
+        ],
+        "Tennis - ATP - MUNICH</span>": [
+            {
+                "time": "09:00",
+                "event": "ATP - MUNICH : Bautista-Agut R. vs Van De Zandschulp B.",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ATP - MUNICH : Hanfmann Y. vs Mensik J.",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ATP - MUNICH : Lehecka J. vs Darderi L.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - MUNICH : Cerundolo F. vs Struff J-L.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - MUNICH : Cobolli F. vs Shevchenko A.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - MUNICH : Engel J. vs Marozsan F.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - MUNICH : Bergs Z. vs Bublik A.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - MUNICH : Dedura-Palomero D. vs Shapovalov D.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - MUNICH : Humbert U. vs Jarry N.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - MUNICH : Navone M. vs Auger-Aliassime F.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - MUNICH : Murray J./Ram R. vs Bopanna R./Shelton B.",
+                "channels": []
+            }
+        ],
+        "Tennis - WTA - STUTTGART</span>": [
+            {
+                "time": "10:30",
+                "event": "WTA - STUTTGART : Ostapenko J. vs Yastremska D.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - STUTTGART : Vekic D. vs Fett J.",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "WTA - STUTTGART : Alexandrova E. vs Samsonova L.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - STUTTGART : Niemeier J. vs Siegemund L.",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "WTA - STUTTGART : Lys E. vs Paolini J.",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - STUTTGART : Navarro E. vs Haddad Maia B.",
+                "channels": []
+            }
+        ],
+        "Tennis - WTA - ROUEN</span>": [
+            {
+                "time": "09:30",
+                "event": "WTA - ROUEN : Krunic A. vs Danilovic 0.",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "WTA - ROUEN : Rouvroy M. vs Ponchet J.",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "WTA - ROUEN : Boisson L. vs Dart H.",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "WTA - ROUEN : Fruhvirtova L. vs Blinkova A.",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - ROUEN : Cristian J. vs Parry D.",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - ROUEN : Rosatello C. vs Parks A.",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "WTA - ROUEN : Sakkari M. vs Bouzas Maneiro J.",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "WTA - ROUEN : Gracheva V. vs Kartal S.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "09:00",
