@@ -4183,6 +4183,59 @@
                 "channels": []
             }
         ],
+        "Tennis ATP - BARCELONA</span>": [
+            {
+                "time": "11:00",
+                "event": "ATP - BARCELONA : Arends S./Johnson L. vs Salisbury J./Skupski N.",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "ATP - BARCELONA : Alcaraz C. vs Rune H.",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - MUNICH</span>": [
+            {
+                "time": "09:00",
+                "event": "ATP - MUNICH : Krawietz K./Puetz T. vs Goransson A./Verbeek S.",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "ATP - MUNICH : Zverev A. vs Shelton B.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - STUTTGART</span>": [
+            {
+                "time": "11:00",
+                "event": "WTA - STUTTGART : Alexandrova E. vs Ostapenko J.",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - STUTTGART : Sabalenka A. vs Paolini J.",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - STUTTGART : Dabrowski G./Routliffe E. vs Alexandrova E./Zhang S.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - ROUEN</span>": [
+            {
+                "time": "11:00",
+                "event": "WTA - ROUEN : Khromacheva I./Noskova L. vs Krunic A./Santamaria S.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "WTA - ROUEN : Svitolina E. vs Danilovic O.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "11:00",
