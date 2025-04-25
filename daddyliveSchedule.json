@@ -3700,6 +3700,130 @@
                 "channels": []
             }
         ],
+        "Tennis ATP - MADRID</span>": [
+            {
+                "time": "09:00",
+                "event": "ATP - MADRID : Baez S. vs Dzumhur D.",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ATP - MADRID : Etcheverry T. M. vs Musetti L.",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ATP - MADRID : Nishikori K. vs Shapovalov D.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - MADRID : Diallo G. vs Majchrzak K.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - MADRID : De Minaur A. vs Sonego L.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - MADRID : Lehecka J. vs Norrie C.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - MADRID : Fearnley J. vs Machac T.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - MADRID : Tsitsipas S. vs Struff J-L.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - MADRID : Dimitrov G. vs Jarry N.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - MADRID : Giron M. vs Berrettini M.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - MADRID : Arnaldi M. vs Djokovic N.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - MADRID : Muller A. vs Humbert U.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - MADRID : Khachanov K. vs Opelka R.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - MADRID : Tiafoe F. vs Darderi L.",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "ATP - MADRID : Draper J. vs Griekspoor T.",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "ATP - MADRID : Fonseca J. vs Paul T.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - MADRID</span>": [
+            {
+                "time": "09:00",
+                "event": "WTA - MADRID : Andreeva M. vs Frech M.",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "WTA - MADRID : Shnaider D. vs Sevastova A.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - MADRID : Samsonova L. vs Starodubtseva Y.",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "WTA - MADRID : Keys M. vs Kalinskaya A.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - MADRID : Haddad Maia B. vs Bencic B.",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - MADRID : Li A. vs Gauff C.",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - MADRID : Noskova L. vs Swiatek I.",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "WTA - MADRID : Vekic D. vs Navarro E.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "09:00",
@@ -3974,6 +4098,11 @@
             {
                 "time": "09:35",
                 "event": "AFL : Greater Western Sydney vs Western Bulldogs",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "AFL Premiership Football : Gold Coast SUNS vs Sydney Swans",
                 "channels": []
             }
         ],
