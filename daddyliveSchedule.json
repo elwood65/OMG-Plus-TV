@@ -1324,7 +1324,7 @@
                 "channels": []
             },
             {
-                "time": "20:20",
+                "time": "00:13",
                 "event": "Hockey. Fonbet KHL Championship. 1/4 finals.",
                 "channels": []
             },
@@ -2086,6 +2086,185 @@
             {
                 "time": "14:00",
                 "event": "Pakistan Super League : Karachi Kings vs Quetta Gladiators",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - MADRID</span>": [
+            {
+                "time": "09:00",
+                "event": "ATP - MADRID : Bonzi B. vs Hurkacz H.",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ATP - MADRID : Rinderknech A. vs Ruud C.",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ATP - MADRID : Cerundolo F. vs Mayot H.",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ATP - MADRID : Comesana F. vs Fils A.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - MADRID : Medvedev D. vs Djere L.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - MADRID : Cerundolo J. M. vs Auger-Aliassime F.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - MADRID : Korda S. vs Cina F.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - MADRID : Popyrin A. vs Bublik A.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - MADRID : Fritz T. vs O'Connell C.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - MADRID : Quinn E. vs Mensik J.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - MADRID : Zverev A. vs Bautista-Agut R.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - MADRID : Nakashima B. vs Ofner S.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - MADRID : Shelton B. vs Navone M.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - MADRID : Borges N. vs Davidovich Fokina A.",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "ATP - MADRID : Monfils G. vs Rublev A.",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "ATP - MADRID : Cobolli F. vs Rune H.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - MADRID</span>": [
+            {
+                "time": "09:00",
+                "event": "WTA - MADRID : Boulter K. vs Paolini J.",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "WTA - MADRID : Linette M. vs Sakkari M.",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "WTA - MADRID : Parks A. vs Kasatkina D.",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "WTA - MADRID : Badosa P. vs Kudermetova V.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - MADRID : Alexandrova E. vs Danilovic O.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - MADRID : Stearns P. vs Anisimova A.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - MADRID : Uchijima M. vs Jabeur O.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - MADRID : Sabalenka A. vs Blinkova A.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - MADRID : Kartal S. vs Svitolina E.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - MADRID : Kenin S. vs Sun L.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - MADRID : Osorio C. vs Mertens E.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - MADRID : Melichar-Martinez/Samsonova vs Andreeva M./Shnaider",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "WTA - MADRID : Potapova A. vs Zheng Q.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "WTA - MADRID : Putintseva Y. vs Masarova R.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "WTA - MADRID : Raducanu E. vs Kostyuk M.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "WTA - MADRID : Gauff C./Montgomery R. vs Dolehide C./Krawczyk D.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - MADRID : Hsieh S-W./Ostapenko J. vs Mihalikova T./Nicholls O.",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "WTA - MADRID : Pegula J. vs Lys E.",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "WTA - MADRID : Rybakina E. vs Andreescu B.",
                 "channels": []
             }
         ],
