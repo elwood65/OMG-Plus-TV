@@ -1,5 +1,27 @@
 {
     "Sunday 27th April 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:00",
+                "event": "Rising Star Promotions : Kurt Scoby vs Jesus Vasquez Jr",
+                "channels": []
+            },
+            {
+                "time": "21:45",
+                "event": "Lucas Oil Late Models Port Royal",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "2025 USAC Kokomo Grand Prix at Kokomo Speedway",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "TNA: Rebellion 2025 (Total Nonstop Action Wrestling) PPV",
+                "channels": []
+            }
+        ],
         "Tv Shows</span>": [
             {
                 "time": "12:00",
