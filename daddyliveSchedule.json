@@ -1893,6 +1893,50 @@
                 "channels": []
             }
         ],
+        "Tennis ATP - MADRID</span>": [
+            {
+                "time": "11:00",
+                "event": "ATP - MADRID : Tiafoe F. vs Arnaldi M.",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "ATP - MADRID : Draper J. vs Paul T.",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "ATP - MADRID : Dimitrov G. vs Diallo G.",
+                "channels": []
+            },
+            {
+                "time": "19:30",
+                "event": "ATP - MADRID : De Minaur A. vs Musetti L.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - MADRID</span>": [
+            {
+                "time": "11:00",
+                "event": "WTA - MADRID : Keys M. vs Swiatek I.",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "WTA - MADRID : Andreeva M. vs Gauff C.",
+                "channels": []
+            },
+            {
+                "time": "14:30",
+                "event": "WTA - MADRID : Uchijima M. vs Svitolina E.",
+                "channels": []
+            },
+            {
+                "time": "18:00",
+                "event": "WTA - MADRID : Sabalenka A. vs Kostyuk M.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "09:00",
