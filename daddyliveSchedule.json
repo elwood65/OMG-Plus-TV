@@ -277,27 +277,22 @@
         "Soccer</span>": [
             {
                 "time": "18:45",
-                "event": "Scottish Championship : Airdrieonians vs Ayr United",
+                "event": "Ireland Republic - First Division : Athlone Town vs Dundalk",
                 "channels": []
             },
             {
                 "time": "18:45",
-                "event": "Scottish Championship : Falkirk vs Hamilton Academical",
+                "event": "Ireland Republic - First Division : Cobh Ramblers vs Bray Wanderers",
                 "channels": []
             },
             {
                 "time": "18:45",
-                "event": "Scottish Championship : Greenock Morton vs Dunfermline Athletic",
+                "event": "Ireland Republic - First Division : Finn Harps vs Treaty United",
                 "channels": []
             },
             {
                 "time": "18:45",
-                "event": "Scottish Championship : Livingston vs Partick Thistle",
-                "channels": []
-            },
-            {
-                "time": "18:45",
-                "event": "Scottish Championship : Queen's Park vs Raith Rovers",
+                "event": "Ireland Republic - First Division : UCD vs Kerry",
                 "channels": []
             },
             {
@@ -323,6 +318,31 @@
             {
                 "time": "18:45",
                 "event": "Ireland Republic - Premier Division : St Patrick's vs Galway United",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Scottish Championship : Airdrieonians vs Ayr United",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Scottish Championship : Falkirk vs Hamilton Academical",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Scottish Championship : Greenock Morton vs Dunfermline Athletic",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Scottish Championship : Livingston vs Partick Thistle",
+                "channels": []
+            },
+            {
+                "time": "18:45",
+                "event": "Scottish Championship : Queen's Park vs Raith Rovers",
                 "channels": []
             },
             {
