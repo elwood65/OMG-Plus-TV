@@ -801,6 +801,16 @@
                 "time": "14:00",
                 "event": "Pakistan Super League : Islamabad United vs Peshawar Zalmi",
                 "channels": []
+            },
+            {
+                "time": "02:15",
+                "event": "India - Chhattisgarh T20 : Raipur Blue vs Mahasamund",
+                "channels": []
+            },
+            {
+                "time": "02:45",
+                "event": "India - Chhattisgarh T20 : Bsp vs J Champ",
+                "channels": []
             }
         ],
         "Tennis ATP - MADRID</span>": [
@@ -4123,7 +4133,7 @@
             },
             {
                 "time": "17:00",
-                "event": "PWHL : Minnesota vs Boston",
+                "event": "PWHL : Minnesota W vs Boston W",
                 "channels": []
             },
             {
