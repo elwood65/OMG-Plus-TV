@@ -282,12 +282,6 @@ https://dokko1new.iosplayer.ru/dokko1/premium95/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium96/mono.m3u8
 
-#EXTINF:-1 tvg-id="unknown" tvg-name="beIN Sports MENA 7" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", beIN Sports MENA 7
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://dokko1new.iosplayer.ru/dokko1/premium97/mono.m3u8
-
 #EXTINF:-1 tvg-id="unknown" tvg-name="beIN Sports MENA Premium 1" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", beIN Sports MENA Premium 1
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -329,12 +323,6 @@ https://ddy6new.iosplayer.ru/ddy6/premium496/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium497/mono.m3u8
-
-#EXTINF:-1 tvg-id="unknown" tvg-name="beIN Sports MAX  France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", beIN Sports MAX  France
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium498/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="beIN Sports MAX 10 France" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", beIN Sports MAX 10 France
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1014,6 +1002,12 @@ https://dokko1new.iosplayer.ru/dokko1/premium657/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium314/mono.m3u8
 
+#EXTINF:-1 tvg-id="unknown" tvg-name="Destination America" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Destination America
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium651/mono.m3u8
+
 #EXTINF:-1 tvg-id="unknown" tvg-name="Disney JR" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Disney JR
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -1302,12 +1296,6 @@ https://windnew.iosplayer.ru/wind/premium787/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium788/mono.m3u8
 
-#EXTINF:-1 tvg-id="unknown" tvg-name="Fox Sports 3 Argentina" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Fox Sports 3 Argentina
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium789/mono.m3u8
-
 #EXTINF:-1 tvg-id="unknown" tvg-name="Fox Sports Premium MX" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Fox Sports Premium MX
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -1355,6 +1343,12 @@ https://zekonew.iosplayer.ru/zeko/premium317/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium298/mono.m3u8
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="Freeform" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Freeform
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium301/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Fox News
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1458,6 +1452,12 @@ https://zekonew.iosplayer.ru/zeko/premium760/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium761/mono.m3u8
 
+#EXTINF:-1 tvg-id="unknown" tvg-name="Global CA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Global CA
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium836/mono.m3u8
+
 #EXTINF:-1 tvg-id="unknown" tvg-name="The Hallmark Channel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", The Hallmark Channel
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -1482,6 +1482,24 @@ https://zekonew.iosplayer.ru/zeko/premium321/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium689/mono.m3u8
 
+#EXTINF:-1 tvg-id="unknown" tvg-name="HBO Comedy USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", HBO Comedy USA
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium690/mono.m3u8
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="HBO Family USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", HBO Family USA
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium691/mono.m3u8
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="HBO Latino USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", HBO Latino USA
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium692/mono.m3u8
+
 #EXTINF:-1 tvg-id="unknown" tvg-name="HBO Signature USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", HBO Signature USA
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -1499,6 +1517,12 @@ https://nfsnew.iosplayer.ru/nfs/premium694/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium569/mono.m3u8
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="History USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", History USA
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium322/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Headline News" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Headline News
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1553,6 +1577,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium353/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium854/mono.m3u8
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="Investigation Discovery (ID USA)" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Investigation Discovery (ID USA)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium324/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="ION USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", ION USA
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1793,6 +1823,12 @@ https://windnew.iosplayer.ru/wind/premium399/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium829/mono.m3u8
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="MY9TV USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", MY9TV USA
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium654/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Motor Trend" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Motor Trend
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2075,6 +2111,18 @@ https://wikinew.iosplayer.ru/wiki/premium439/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://wikinew.iosplayer.ru/wiki/premium440/mono.m3u8
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="Oprah Winfrey Network (OWN)" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Oprah Winfrey Network (OWN)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium331/mono.m3u8
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="Oxygen True Crime" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Oxygen True Crime
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium332/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Polsat Poland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Polsat Poland
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2376,6 +2424,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium558/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium559/mono.m3u8
 
+#EXTINF:-1 tvg-id="unknown" tvg-name="SportsNet New York (SNY)" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", SportsNet New York (SNY)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium759/mono.m3u8
+
 #EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport", Sky Sport Football 
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -2668,7 +2722,7 @@ https://zekonew.iosplayer.ru/zeko/premium424/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://dokko1new.iosplayer.ru/dokko1/premium368/mono.m3u8
+https://zekonew.iosplayer.ru/zeko/premium368/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="SuperSport MaXimo 1" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", SuperSport MaXimo 1
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3000,6 +3054,12 @@ https://zekonew.iosplayer.ru/zeko/premium147/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium148/mono.m3u8
 
+#EXTINF:-1 tvg-id="unknown" tvg-name="Science Channel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Science Channel
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.iosplayer.ru/nfs/premium294/mono.m3u8
+
 #EXTINF:-1 tvg-id="unknown" tvg-name="Showtime USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Showtime USA
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -3011,6 +3071,12 @@ https://windnew.iosplayer.ru/wind/premium333/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium685/mono.m3u8
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="Starz" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Starz
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium335/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Sky Witness HD" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Sky Witness HD
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3059,6 +3125,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium738/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium739/mono.m3u8
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="Smithsonian Channel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Smithsonian Channel
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium603/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="TNT Sports 1 UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", TNT Sports 1 UK
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3234,6 +3306,18 @@ https://windnew.iosplayer.ru/wind/premium131/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium336/mono.m3u8
 
+#EXTINF:-1 tvg-id="unknown" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", TLC
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium337/mono.m3u8
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="TNT USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", TNT USA
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium338/mono.m3u8
+
 #EXTINF:-1 tvg-id="unknown" tvg-name="TVA Sports" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", TVA Sports
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -3275,6 +3359,12 @@ https://nfsnew.iosplayer.ru/nfs/premium644/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium698/mono.m3u8
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="The Food Network" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", The Food Network
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium384/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="The Weather Channel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", The Weather Channel
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -3870,6 +3960,12 @@ https://windnew.iosplayer.ru/wind/premium914/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium915/mono.m3u8
 
+#EXTINF:-1 tvg-id="unknown" tvg-name="Cytavision Sports 6 Cyprus" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Cytavision Sports 6 Cyprus
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium916/mono.m3u8
+
 #EXTINF:-1 tvg-id="unknown" tvg-name="Cytavision Sports 7 Cyprus" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Cytavision Sports 7 Cyprus
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -4078,7 +4174,7 @@ https://windnew.iosplayer.ru/wind/premium680/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium792/mono.m3u8
+https://windnew.iosplayer.ru/wind/premium792/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Showtime Showcase USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Showtime Showcase USA
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
