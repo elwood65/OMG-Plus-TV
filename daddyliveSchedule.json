@@ -3327,6 +3327,11 @@
                 "channels": []
             },
             {
+                "time": "15:00",
+                "event": "Russia Superliga, Women : HC Lada Togliatti vs CSKA Moscow",
+                "channels": []
+            },
+            {
                 "time": "17:00",
                 "event": "Serbia Super Liga, Women : \u017dORK Jagodina vs Zeleznicar",
                 "channels": []
@@ -3366,12 +3371,12 @@
             },
             {
                 "time": "21:00",
-                "event": "2025 IIHF U18 Men's Hockey Championship : Bronze Medal : Slovakia vs United States",
+                "event": "2025 IIHF U18 Men's Hockey Championship : Bronze Medal : Slovakia vs. United States",
                 "channels": []
             },
             {
                 "time": "00:00",
-                "event": "2025 IIHF U18 Men's Hockey Championship : Gold Medal : Canada vs Sweden",
+                "event": "2025 IIHF U18 Men's Hockey Championship : Gold Medal : Canada vs. Sweden",
                 "channels": []
             },
             {
