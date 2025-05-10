@@ -1712,6 +1712,16 @@
             },
             {
                 "time": "19:00",
+                "event": "France - Ligue 1 : Angers vs Strasbourg",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "France - Ligue 1 : Toulouse vs Lens",
+                "channels": []
+            },
+            {
+                "time": "19:00",
                 "event": "France - Ligue 1 : Reims vs Saint-\u00c9tienne",
                 "channels": []
             },
