@@ -289,6 +289,16 @@
                 "channels": []
             },
             {
+                "time": "14:15",
+                "event": "Qatar Amir Cup : Al Ahli Doha SC vs. Al Shahaniya",
+                "channels": []
+            },
+            {
+                "time": "17:15",
+                "event": "Qatar Amir Cup : Umm-Salal SC vs. Al-Shamal",
+                "channels": []
+            },
+            {
                 "time": "14:45",
                 "event": "Bulgaria - Parva Liga : Cherno More vs Ludogorets",
                 "channels": []
@@ -513,6 +523,95 @@
             {
                 "time": "14:00",
                 "event": "Pakistan Super League : Qualifier",
+                "channels": []
+            }
+        ],
+        "ATP - ROME</span>": [
+            {
+                "time": "09:00",
+                "event": "- ATP - ROME : Draper J. vs Moutet C.",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "- ATP - ROME : Khachanov K. vs Alcaraz C.",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "- ATP - ROME : Granollers M./Zeballos H. vs Arends S./Johnson L.",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "- ATP - ROME : Salisbury J./Skupski N. vs Bopanna R./Pavlasek A.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "- ATP - ROME : Hurkacz H. vs Mensik J.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "- ATP - ROME : Ebden M./Peers J. vs Krawietz K./Puetz T.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "- ATP - ROME : Musetti L. vs Medvedev D.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "- ATP - ROME : Arevalo M./Pavic M. vs Gille S./Zielinski J.",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "- ATP - ROME : Sinner J. vs Cerundolo F.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "- ATP - ROME : Fils A. vs Zverev A.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "- ATP - ROME : Musetti L./Sonego L. vs Heliovaara H./Patten H.",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "- ATP - ROME : Paul T. vs De Minaur A.",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "- ATP - ROME : Munar J. vs Ruud C.",
+                "channels": []
+            }
+        ],
+        "WTA - ROME</span>": [
+            {
+                "time": "11:00",
+                "event": "- WTA - ROME : Paolini J. vs Shnaider D.",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "- WTA - ROME : Eala A./Gauff C. vs Grant T. C./Pigato L.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "- WTA - ROME : Chan H-C./Olmos G. vs Andreeva M./Shnaider D.",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "- WTA - ROME : Stearns P. vs Svitolina E.",
                 "channels": []
             }
         ],
@@ -1149,12 +1248,22 @@
             },
             {
                 "time": "16:00",
+                "event": "Croatia A1 Liga Women : ZKK Ragusa Dubrovnik vs. ZKK Tresnjevka 2009",
+                "channels": []
+            },
+            {
+                "time": "16:00",
                 "event": "Slovenian League: Playoff - 1/4 Final (G2) : Cedevita Olimpija vs \u0160en\u010dur",
                 "channels": []
             },
             {
                 "time": "16:30",
                 "event": "Bulgaria NBL : Cherno More IG vs. Balkan Botevgrad",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Slovakia Extraliga : BK Inter Bratislava vs. Astrum Levice",
                 "channels": []
             },
             {
@@ -1179,7 +1288,7 @@
             },
             {
                 "time": "18:00",
-                "event": "Bundesliga: Play-In B",
+                "event": "Germany BBL : Alba Berlin vs. Mitteldeutscher BC",
                 "channels": []
             },
             {
@@ -1245,6 +1354,11 @@
             {
                 "time": "18:15",
                 "event": "LNB : Paris vs Dijon",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "Italy A1 Women : PF Schio vs. Umana Venezia",
                 "channels": []
             },
             {
