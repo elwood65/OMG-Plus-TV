@@ -2282,11 +2282,6 @@
             },
             {
                 "time": "18:00",
-                "event": "Coppa Italia : Milan vs Bologna",
-                "channels": []
-            },
-            {
-                "time": "18:00",
                 "event": "Netherlands - Eredivisie : PSV vs Heracles",
                 "channels": []
             },
@@ -2348,6 +2343,11 @@
             {
                 "time": "18:30",
                 "event": "Switzerland Super League : Grasshopper vs Yverdon Sport",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "Coppa Italia : Milan vs Bologna",
                 "channels": []
             },
             {
