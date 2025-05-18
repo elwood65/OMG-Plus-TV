@@ -3280,6 +3280,11 @@
             },
             {
                 "time": "12:30",
+                "event": "Ukraine Premier League : Inhulets vs Shakhtar Donetsk",
+                "channels": []
+            },
+            {
+                "time": "12:30",
                 "event": "Poland - II League : Rekord Bielsko-Biala vs Swit Szczecin",
                 "channels": []
             },
@@ -4008,6 +4013,71 @@
             {
                 "time": "15:00",
                 "event": "Pakistan Super League : Lahore Qalandars vs Peshawar Zalmi",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - ROME</span>": [
+            {
+                "time": "12:00",
+                "event": "ATP - ROME : Arevalo M./Pavic M. vs Doumbia S./Reboul F.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - ROME : Sinner J. vs Alcaraz C.",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - HAMBURG</span>": [
+            {
+                "time": "12:30",
+                "event": "ATP - HAMBURG : Dedura D. vs Darderi L.",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "ATP - HAMBURG : Martinez P. vs Cerundolo F.",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - GENEVA</span>": [
+            {
+                "time": "10:00",
+                "event": "ATP - GENEVA : Popyrin A. vs Jarry N.",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "ATP - GENEVA : Borges N. vs Michelsen A.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - ROME</span>": [
+            {
+                "time": "10:00",
+                "event": "WTA - ROME : Errani S./Paolini J. vs Kudermetova V./Mertens E.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - STRASBOURG</span>": [
+            {
+                "time": "11:00",
+                "event": "WTA - STRASBOURG : Noskova L. vs Samsonova L.",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - STRASBOURG : Krejcikova B. vs Linette M.",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - STRASBOURG : Putintseva Y. vs Sramkova R.",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - STRASBOURG : Parry D. vs Fernandez L.",
                 "channels": []
             }
         ],
