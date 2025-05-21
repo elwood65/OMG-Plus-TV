@@ -2317,6 +2317,166 @@
                 "channels": []
             }
         ],
+        "Tennis ROLAND GARROS QUALIFYING</span>": [
+            {
+                "time": "08:00",
+                "event": "ROLAND GARROS QUALIFYING : Court Suzanne-Lenglen",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ROLAND GARROS QUALIFYING : Court 14",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ROLAND GARROS QUALIFYING : Court 7",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ROLAND GARROS QUALIFYING : Court 6",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ROLAND GARROS QUALIFYING : Court 2",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ROLAND GARROS QUALIFYING : Court 3",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ROLAND GARROS QUALIFYING : Court 4",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ROLAND GARROS QUALIFYING : Court 5",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ROLAND GARROS QUALIFYING : Court 8",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ROLAND GARROS QUALIFYING : Court 9",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ROLAND GARROS QUALIFYING : Court 10",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ROLAND GARROS QUALIFYING : Court 11",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ROLAND GARROS QUALIFYING : Court 12",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ROLAND GARROS QUALIFYING : Court 13",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - HAMBURG</span>": [
+            {
+                "time": "10:00",
+                "event": "ATP - HAMBURG : Etcheverry T. M. vs Lehecka J.",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "ATP - HAMBURG : Cobolli F. vs Bautista-Agut R.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - HAMBURG : Rublev A. vs Darderi L.",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "ATP - HAMBURG : Muller A. vs Auger-Aliassime F.",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - GENEVA</span>": [
+            {
+                "time": "11:30",
+                "event": "ATP - GENEVA : Khachanov K. vs Ofner S.",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "ATP - GENEVA : Fritz T. vs Hurkacz H.",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "ATP - GENEVA : Arnaldi M. vs Djokovic N.",
+                "channels": []
+            },
+            {
+                "time": "17:30",
+                "event": "ATP - GENEVA : Popyrin A. vs Norrie C.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - STRASBOURG</span>": [
+            {
+                "time": "09:00",
+                "event": "WTA - STRASBOURG : Linette M. vs Rybakina E.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - STRASBOURG : Haddad Maia B. vs Navarro E.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - STRASBOURG : Badosa P. vs Samsonova L.",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "WTA - STRASBOURG : Kalinskaya A. vs Collins D.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - RABAT</span>": [
+            {
+                "time": "10:00",
+                "event": "WTA - RABAT : Bouzas Maneiro J. vs Tomljanovic A.",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "WTA - RABAT : Li A. vs Joint M.",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "WTA - RABAT : Mateas M. vs Osorio C.",
+                "channels": []
+            },
+            {
+                "time": "14:30",
+                "event": "WTA - RABAT : Cristian J. vs Sevastova A.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "09:00",
