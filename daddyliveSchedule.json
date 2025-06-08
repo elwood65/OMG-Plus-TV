@@ -1,5 +1,37 @@
 {
     "Sunday 08th June 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:00",
+                "event": "GCW: Cage of Survival 4",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "USAC Indiana Midget Week Kokomo",
+                "channels": []
+            },
+            {
+                "time": "21:45",
+                "event": "World of Outlaws Sprint Cars Angell Park",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "Appalachian LM Speedweek Hagerstown",
+                "channels": []
+            },
+            {
+                "time": "23:15",
+                "event": "2025 Late Models at Slinger Speedway",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "Husets Speedway Sprint Cars",
+                "channels": []
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:30",
