@@ -584,6 +584,26 @@
                 "time": "02:00",
                 "event": "Club Friendly : San Diego vs Am\u00e9rica",
                 "channels": []
+            },
+            {
+                "time": "02:30",
+                "event": "USL Championship : Phoenix Rising vs Orange County",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "USL League One : AV Alta FC vs Spokane Velocity",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "USL Championship : Sacramento Republic vs Tulsa",
+                "channels": []
+            },
+            {
+                "time": "04:00",
+                "event": "Japan - J3 League : Vanraure Hachnohe vs Ryukyu",
+                "channels": []
             }
         ],
         "Cricket</span>": [
@@ -1035,8 +1055,43 @@
                 "channels": []
             },
             {
+                "time": "00:40",
+                "event": "UFC 316 - Dvalishvili vs. O'Malley 2 : Azamat Murzakanov vs Brendson Ribeiro",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "UFC 316 - Dvalishvili vs. O'Malley 2 : Bruno Silva vs Joshua Van",
+                "channels": []
+            },
+            {
                 "time": "02:00",
                 "event": "UFC 316 Main Card : Merab Dvalishvili vs Sean O'Malley",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "UFC 316 - Dvalishvili vs. O'Malley 2 : Vicente Luque vs Kevin Holland",
+                "channels": []
+            },
+            {
+                "time": "02:20",
+                "event": "UFC 316 - Dvalishvili vs. O'Malley 2 : Mario Bautista vs Patrick Mix",
+                "channels": []
+            },
+            {
+                "time": "02:40",
+                "event": "UFC 316 - Dvalishvili vs. O'Malley 2 : Kelvin Gastelum vs Joe Pyfer",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "UFC 316 - Dvalishvili vs. O'Malley 2 : Julianna Pena vs Kayla Harrison",
+                "channels": []
+            },
+            {
+                "time": "03:30",
+                "event": "UFC 316 - Dvalishvili vs. O'Malley 2 : Merab Dvalishvili vs Sean O'Malley",
                 "channels": []
             }
         ],
@@ -1379,6 +1434,11 @@
             {
                 "time": "02:00",
                 "event": "WNBA : Seattle Storm vs Phoenix Mercury",
+                "channels": []
+            },
+            {
+                "time": "03:00",
+                "event": "New Zealand - NBL : Auckland Huskies vs Whai",
                 "channels": []
             }
         ],
@@ -2024,6 +2084,51 @@
         ],
         "Soccer</span>": [
             {
+                "time": "05:00",
+                "event": "Japan - J3 League : Azul Claro Numazu vs Zwiegen Kanazawa",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "Japan - J3 League : Gainare Tottori vs Nagano Parceiro",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "Japan - League Cup : Jubilo Iwata vs Shonan Bellmare",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "Japan - J2 League : Kataller Toyama vs Mito Hollyhock",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "Japan - J3 League : Kochi United vs Nara Club",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "Japan - J2 League : Omiya Ardija vs Ehime",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "Japan - J3 League : Tochigi City vs Giravanz Kitakyushu",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Gimpo vs Cheonan City",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Incheon United vs Bucheon",
+                "channels": []
+            },
+            {
                 "time": "10:00",
                 "event": "Africa - COSAFA Cup : Angola vs Lesotho",
                 "channels": []
@@ -2056,6 +2161,11 @@
             {
                 "time": "14:30",
                 "event": "Friendly match : Uzbekistan (Youth) vs Russia U21",
+                "channels": []
+            },
+            {
+                "time": "15:45",
+                "event": "Uruguay - Segunda Division : Uruguay Montevideo vs Albion FC (URU)",
                 "channels": []
             },
             {
@@ -2109,6 +2219,11 @@
                 "channels": []
             },
             {
+                "time": "21:00",
+                "event": "Venezuela - Primera Division : Universidad Central Venezuela vs Academia Anzoategui",
+                "channels": []
+            },
+            {
                 "time": "21:30",
                 "event": "USL W-League : Buffalo vs Pittsburgh Riveters",
                 "channels": []
@@ -2135,7 +2250,17 @@
             },
             {
                 "time": "23:30",
+                "event": "Uruguay - Segunda Division : Colon FC vs Atenas San Carlos",
+                "channels": []
+            },
+            {
+                "time": "23:30",
                 "event": "Brazil - Serie B : Remo vs Oper\u00e1rio PR",
+                "channels": []
+            },
+            {
+                "time": "00:30",
+                "event": "Venezuela - Primera Division : Deportivo La Guaira vs Portuguesa",
                 "channels": []
             },
             {
@@ -2158,6 +2283,20 @@
             {
                 "time": "13:30",
                 "event": "Twenty20 : England vs West Indies",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - ROLAND GARROS</span>": [
+            {
+                "time": "13:00",
+                "event": "WTA - ROLAND GARROS : Sinner J. vs Alcaraz C.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA DOUBLES - ROLAND GARROS</span>": [
+            {
+                "time": "09:00",
+                "event": "WTA DOUBLES - ROLAND GARROS : Danilina A./Krunic A. vs Errani S./Paolini J.",
                 "channels": []
             }
         ],
@@ -2190,6 +2329,251 @@
             {
                 "time": "20:15",
                 "event": "Major League Pickleball : Carolina Hogs vs New Jersey 5s",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "UTR (M) - Kaohsiung (TWN) : Luca Connaughton vs Cayden Wang",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "UTR (F) - Glifada (GRE) : Ani Amiraghyan vs Elina Nepliy",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "UTR (F) - Glifada (GRE) : Mia Sarcev vs Kyra Shetty",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "UTR (M) - Glifada (GRE) : Roman Venger vs Nikola Keremedchiev",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "UTR (M) - Glifada (GRE) : Gabriel Matuszewski vs Stefan Skobelev",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "UTR (M) - Glifada (GRE) : Ioannis Xilas vs John Hallquist Lithen",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "UTR (M) - Ahaus (GER) : Piet Steveker vs Cornelius Alexander Shalmi",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "UTR (F) - Glifada (GRE) : Styliani Roussopoulou vs Marianthi Christoforidou",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ATP - s-Hertogenbosch (OLA) - Qualifiers : Adam Walton vs Daniel Evans",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ATP - s-Hertogenbosch (OLA) - Qualifiers : Adrian Mannarino vs Daniel Dutra da Silva",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ATP - s-Hertogenbosch (OLA) - Qualifiers : Corentin Denolly vs Mark Lajal",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Lyon (FRA) - Qualifiers : Egor Agafonov vs Tom Gentzsch",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Lyon (FRA) - Qualifiers : Facundo Juarez vs Zdenek Kolar",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ATP - s-Hertogenbosch (OLA) - Qualifiers : Mackenzie McDonald vs Ryan Peniston",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Lyon (FRA) - Qualifiers : Matthew Dellavedova vs Etienne Donnet",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ATP - s-Hertogenbosch (OLA) - Qualifiers : Max Houkes vs Alexander Blockx",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ATP - s-Hertogenbosch (OLA) - Qualifiers : Reilly Opelka vs Denis Yevseyev",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ATP - s-Hertogenbosch (OLA) - Qualifiers : Thijs Boogaard vs James Mccabe",
+                "channels": []
+            },
+            {
+                "time": "08:40",
+                "event": "UTR (M) - Ahaus (GER) : David Petrovic vs Vitek Horak",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ATP - Stuttgart (GER) - Qualifiers : Beibit Zhukayev vs Marc Andrea Huesler",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ATP - Stuttgart (GER) - Qualifiers : James Duckworth vs Nikoloz Basilashvili",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Lyon (FRA) - Qualifiers : Kilian Feldbausch vs Kaichi Uchida",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Lyon (FRA) - Qualifiers : Lucas Poullain vs Yoshka Sborowsky",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Lyon (FRA) - Qualifiers : Maxime Janvier vs Mae Malige",
+                "channels": []
+            },
+            {
+                "time": "09:50",
+                "event": "UTR (M) - Ahaus (GER) : Yorrick Veldkamp - Idriss Haddouch",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - Londra (MBR) - Qualifiers : Alice Gillan vs Cristina Bucsa",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - Londra (MBR) - Qualifiers : Arina Rodionova vs Destanee Aiava",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - Londra (MBR) - Qualifiers : Heather Watson vs Ena Shibahara",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Heilbronn (GER) - Double : J.Schnaitter/M.Wallner vs V.Kirkov/B.Stevens",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - Londra (MBR) - Qualifiers : Zeynep Sonmez vs Mina Hodzic",
+                "channels": []
+            },
+            {
+                "time": "10:10",
+                "event": "ATP - Stuttgart (GER) - Qualifiers : Li Tu vs Pierre Hugues Herbert",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Lyon (FRA) - Qualifiers : Arthur Reymond vs Lilian Marmousez",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Lyon (FRA) - Qualifiers : Jakub Paul vs Maxim Zhukov",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Lyon (FRA) - Qualifiers : Nicolas Alvarez Varona vs Loann Massard",
+                "channels": []
+            },
+            {
+                "time": "10:25",
+                "event": "Challenger - Birmingham (MBR) - Double : M.Demoliner/S.Doumbia vs D.Hidalgo/P.Trhac",
+                "channels": []
+            },
+            {
+                "time": "11:05",
+                "event": "WTA 125 - Birmingham (MBR) : Rebeka Masarova vs Greet Minnen",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Bratislava (SVK) - Qualifiers : Jan Jermar vs Gabi Adrian Boitan",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Bratislava (SVK) - Qualifiers : Marko Topo vs Andrew Paulson",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Lyon (FRA) - Qualifiers : Pedro Cachin vs Timo Legout",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Lyon (FRA) - Qualifiers : Robin Catry vs Miguel Damas",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Lyon (FRA) - Qualifiers : Timothee Lustig vs Michael Vrbensky",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - Londra (MBR) - Qualifiers : Ajla Tomljanovic vs Harmony Tan",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - Londra (MBR) - Qualifiers : Emiliana Arango vs Yuriko Lily Miyazaki",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "Challenger - Heilbronn (GER) : Guy Den Ouden vs Ignacio Buse",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - s-Hertogenbosch (OLA) - Qualifiers : Dalma Galfi vs Renata Jamrichova",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - s-Hertogenbosch (OLA) - Qualifiers : Ella Seidel vs Sarah van Emst",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - s-Hertogenbosch (OLA) - Qualifiers : Lian Tran vs Nina Stojanovic",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - s-Hertogenbosch (OLA) - Qualifiers : Loes Ebeling Koning vs Mariam Bolkvadze",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Challenger - Tyler (USA) : Yibing Wu vs Yi Zhou",
                 "channels": []
             }
         ],
@@ -2624,6 +3008,16 @@
                 "channels": []
             },
             {
+                "time": "17:00",
+                "event": "French - LNB Pro B - Playoff : Le Portel vs ASA",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Italy - Serie B - Playoff : Talos Ruvo di Puglia vs Herons",
+                "channels": []
+            },
+            {
                 "time": "17:30",
                 "event": "Super Ligi : Besiktas JK vs. Anadolu Efes SK",
                 "channels": []
@@ -2784,6 +3178,41 @@
                 "channels": []
             },
             {
+                "time": "13:00",
+                "event": "Germany - Bundesliga : Flensburg vs Hamburg",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Germany - Bundesliga : Gummersbach vs Hannover Burgdorf",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Germany - Bundesliga : Kiel vs Eisenach",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Germany - Bundesliga : Lemgo vs Goppingen",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Germany - Bundesliga : Potsdam vs Melsungen",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Germany - Bundesliga : Stuttgart vs Leipzig",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Germany - Bundesliga : Wetzlar vs Erlangen",
+                "channels": []
+            },
+            {
                 "time": "14:00",
                 "event": "Denmark Damehandboldligaen : Team Esbjerg vs. HC Odense",
                 "channels": []
@@ -2834,6 +3263,21 @@
             }
         ],
         "Ice Hockey</span>": [
+            {
+                "time": "05:30",
+                "event": "Australia - AIHL : Newcastle North Stars vs Melbourne Ice",
+                "channels": []
+            },
+            {
+                "time": "05:45",
+                "event": "Australia - AIHL : Brisbane Lightning vs Melbourne Mustangs",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Australia - AIHL : Perth Thunder vs Adelaide Adrenaline",
+                "channels": []
+            },
             {
                 "time": "19:00",
                 "event": "Hockey AHL : Charlotte Checkers vs. Laval Rocket",
