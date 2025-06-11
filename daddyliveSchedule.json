@@ -1,5 +1,32 @@
 {
     "Wednesday 11th June 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "22:15",
+                "event": "Millbridge Speedway Sprints",
+                "channels": []
+            },
+            {
+                "time": "22:15",
+                "event": "358 Modified Special Utica",
+                "channels": []
+            },
+            {
+                "time": "22:45",
+                "event": "DIRTcar Summer Nationals Late Models",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "2025 IMCA Clash at the Creek at 141 Speedway",
+                "channels": []
+            },
+            {
+                "time": "00:55",
+                "event": "2025 NARC 410 Sprints at Southern Oregon Speedway",
+                "channels": []
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "15:00",
