@@ -1306,6 +1306,179 @@
                 "channels": []
             }
         ],
+        "Tennis ATP - LONDON</span>": [
+            {
+                "time": "11:00",
+                "event": "ATP - LONDON : De Minaur A. vs Lehecka J.",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - LONDON : Nakashima B. vs Mpetshi Perricard G.",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - LONDON : Popyrin A. vs Vukic A.",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "ATP - LONDON : Brooksby J. vs Draper J.",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "ATP - LONDON : Opelka R. vs Ugo Carabelli C.",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "ATP - LONDON : Rinderknech A. vs Shelton B.",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "ATP - LONDON : Alcaraz C. vs Davidovich Fokina A.",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "ATP - LONDON : Thompson J. vs Munar J.",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "ATP - LONDON : Diallo G. vs Harris B.",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "ATP - LONDON : Moutet C. vs Fritz T.",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - HALLE</span>": [
+            {
+                "time": "09:30",
+                "event": "ATP - HALLE : De Jong J. vs Machac T.",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "ATP - HALLE : Martinez P. vs Etcheverry T. M.",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "ATP - HALLE : Rublev A. vs Ofner S.",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - HALLE : Cerundolo F. vs Michelsen A.",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - HALLE : Fonseca J. vs Cobolli F.",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - HALLE : Humbert U. vs Shapovalov D.",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "ATP - HALLE : Auger-Aliassime F. vs Djere L.",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - HALLE : Sinner J. vs Hanfmann Y.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - HALLE : Sonego L. vs Struff J-L.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - BERLIN</span>": [
+            {
+                "time": "09:30",
+                "event": "WTA - BERLIN : Osaka N. vs Samsonova L.",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "WTA - BERLIN : Wang Xin. vs Kasatkina D.",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "WTA - BERLIN : Vondrousova M. vs Keys M.",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - BERLIN : Shnaider D. vs Vekic D.",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - BERLIN : Anisimova A. vs Andreescu B.",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "WTA - BERLIN : Rybakina E. vs Zheng Q.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - NOTTINGHAM</span>": [
+            {
+                "time": "10:00",
+                "event": "WTA - NOTTINGHAM : Jones F. vs Dart H.",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - NOTTINGHAM : Linette M. vs Eala A.",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - NOTTINGHAM : Kartal S. vs Jeanjean L.",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "WTA - NOTTINGHAM : Siegemund L. vs Sramkova R.",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "WTA - NOTTINGHAM : Xu M. vs Volynets K.",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - NOTTINGHAM : Sun L. vs Boulter K.",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "WTA - NOTTINGHAM : Starodubtseva Y. vs Bucsa C.",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - NOTTINGHAM : Haddad Maia B. vs Kessler M.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "09:30",
@@ -2019,7 +2192,7 @@
             },
             {
                 "time": "23:00",
-                "event": "WNBA : Atlanta Dream vs New York Liberty",
+                "event": "WNBA : Atlanta Dream W vs New York Liberty W",
                 "channels": []
             },
             {
@@ -2034,7 +2207,7 @@
             },
             {
                 "time": "00:00",
-                "event": "WNBA : Washington Mystics vs Chicago Sky",
+                "event": "WNBA : Washington Mystics W vs Chicago Sky W",
                 "channels": []
             },
             {
