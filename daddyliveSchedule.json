@@ -1,5 +1,44 @@
 {
     "Tuesday 17th June 2025 - Schedule Time UK GMT": {
+        "PPV Events-II-II</span>": [
+            {
+                "time": "20:00",
+                "event": "2025 Summer Shootout at Charlotte Motor Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "2025 NAPA ASCoC Ohio Sprint Speedweek at Fremont Speedway",
+                "channels": []
+            }
+        ],
+        "PPV Events</span>": [
+            {
+                "time": "20:00",
+                "event": "2025 Summer Shootout at Charlotte Motor Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:00",
+                "event": "2025 NAPA ASCoC Ohio Sprint Speedweek at Fremont Speedway",
+                "channels": []
+            },
+            {
+                "time": "22:10",
+                "event": "USAC Eastern Storm Grandview",
+                "channels": []
+            },
+            {
+                "time": "23:15",
+                "event": "DIRTcar Summer Nationals Davenport",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "The Ultimate Fighter 33 Episode 4",
+                "channels": []
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
