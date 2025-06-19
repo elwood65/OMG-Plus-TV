@@ -282,12 +282,22 @@
             },
             {
                 "time": "01:15",
+                "event": "Colombia - Primera A - Apertura : America de Cali vs Independiente Medellin",
+                "channels": []
+            },
+            {
+                "time": "01:15",
                 "event": "CONCACAF Gold Cup : Saudi Arabia vs USA",
                 "channels": []
             },
             {
                 "time": "01:15",
-                "event": "Colombia Primera A - 6:45am - Once Caldas vs Atl\u00e9tico Nacional",
+                "event": "Colombia Primera A : Once Caldas vs Atl\u00e9tico Nacional",
+                "channels": []
+            },
+            {
+                "time": "01:15",
+                "event": "Colombia - Primera A : Millonarios vs Santa Fe",
                 "channels": []
             }
         ],
