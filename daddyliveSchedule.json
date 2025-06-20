@@ -1285,6 +1285,21 @@
                 "channels": []
             },
             {
+                "time": "08:30",
+                "event": "Australia - NPL - NSW - North : Broadmeadow Magic vs Belmont Swansea United",
+                "channels": []
+            },
+            {
+                "time": "11:35",
+                "event": "China - Cup FA : Shandong Taishan vs Chengdu Rongcheng",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Interclub friendly : Tatran Presov vs Tatran Liptovsky Mikulas",
+                "channels": []
+            },
+            {
                 "time": "16:00",
                 "event": "FIFA Club World Cup : Benfica vs Auckland City",
                 "channels": []
@@ -1387,6 +1402,11 @@
                 "channels": []
             },
             {
+                "time": "07:30",
+                "event": "India - Bengal Pro T20 League : Sobisco Smashers Malda vs Adamas Howrah Warriors",
+                "channels": []
+            },
+            {
                 "time": "10:00",
                 "event": "Test Match Day 1 : England vs India",
                 "channels": []
@@ -1412,10 +1432,243 @@
                 "channels": []
             }
         ],
+        "Tennis ATP - LONDON</span>": [
+            {
+                "time": "11:00",
+                "event": "ATP - LONDON : Lehecka J. vs Fearnley J.",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "ATP - LONDON : Nakashima B. vs Draper J.",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "ATP - LONDON : Alcaraz C. vs Rinderknech A.",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "ATP - LONDON : Rune H. vs Bautista-Agut R.",
+                "channels": []
+            }
+        ],
+        "Tennis ATP - HALLE</span>": [
+            {
+                "time": "09:30",
+                "event": "ATP - HALLE : Michelsen A. vs Medvedev D.",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - HALLE : Cobolli F. vs Zverev A.",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "ATP - HALLE : Bublik A. vs Machac T.",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "ATP - HALLE : Doumbia S./Reboul F. vs Cabral F./Miedler L.",
+                "channels": []
+            },
+            {
+                "time": "14:30",
+                "event": "ATP - HALLE : Etcheverry T. M. vs Khachanov K.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - BERLIN</span>": [
+            {
+                "time": "09:30",
+                "event": "WTA - BERLIN : Jabeur O. vs Vondrousova M.",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "WTA - BERLIN : Mihalikova T./Nicholls O. vs Kichenok L./Routliffe E.",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "WTA - BERLIN : Badosa P. vs Wang Xin.",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - BERLIN : Sabalenka A. vs Rybakina E.",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "WTA - BERLIN : Anisimova A. vs Samsonova L.",
+                "channels": []
+            }
+        ],
+        "Tennis WTA - NOTTINGHAM</span>": [
+            {
+                "time": "10:00",
+                "event": "WTA - NOTTINGHAM : Fernandez L. vs Yastremska D.",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "WTA - NOTTINGHAM : Linette M. vs Tauson C.",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "WTA - NOTTINGHAM : Kessler M. vs Boulter K.",
+                "channels": []
+            },
+            {
+                "time": "14:30",
+                "event": "WTA - NOTTINGHAM : Sramkova R. vs Noskova L.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "09:30",
                 "event": "Live Halle-ATP, London-ATP, Berlin-WTA & Nottingham-WTA Quarterfinals",
+                "channels": []
+            },
+            {
+                "time": "03:20",
+                "event": "UTR (M) - Fukui (JAP) : Haru Kawanak vs Aryan Jit Singh",
+                "channels": []
+            },
+            {
+                "time": "03:20",
+                "event": "UTR (M) - Fukui (JAP) : Takumi Katsuda vs Ryosuke Inagawa",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "ATP Halle : Alex Michelsen vs Daniil Medvedev",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Royan (FRA) - Double : M.Dodig/N.Serdarusic vs M.Beauge/L.Bouquet",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Poznan (POL) - Double : M.Middelkoop/J.J.Rojer vs S.Martos Gornes/N.V.S.Prashanth",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "Challenger - Sassuolo (ITA) - Double : A.Erler/Co.Frantzen vs G.Goldhoff/G.Jacq",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "Challenger - Sassuolo (ITA) - Double : M.C.Romios/R.Seggerman vs I.Cervantes Huegun/G.Duran",
+                "channels": []
+            },
+            {
+                "time": "10:40",
+                "event": "ATP - Halle (GER) : Flavio Cobolli vs Alexander Zverev",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - Londra (MBR) : Carlos Alcaraz vs Arthur Rinderknech",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Challenger - Nottingham (MBR) : Colton Smith vs Shintaro Mochizuki",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - Londra (MBR) : Jiri Lehecka vs Jacob Fearnley",
+                "channels": []
+            },
+            {
+                "time": "11:10",
+                "event": "Challenger - Poznan (POL) : Dalibor Svrcina vs Thiago Agustin Tirante",
+                "channels": []
+            },
+            {
+                "time": "11:10",
+                "event": "Challenger - Royan (FRA) - Double : E.Agafonov/M.Zhukov vs A.Kalyanpur/P.Somani",
+                "channels": []
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - Londra (MBR) - Double : R.Bopanna/S.Gille vs J.Cash/L.Glasspool",
+                "channels": []
+            },
+            {
+                "time": "12:10",
+                "event": "Challenger - Nottingham (MBR) - Double : D.Hidalgo/P.Trhac vs S.Gonzalez/A.Krajicek",
+                "channels": []
+            },
+            {
+                "time": "12:20",
+                "event": "Challenger - Poznan (POL) : Cristian Garin vs Filip Misolic",
+                "channels": []
+            },
+            {
+                "time": "12:20",
+                "event": "Challenger - Nottingham (MBR) - Double : G.Andreozzi/T.Arribage vs F.Romboli/J.P.Smith",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "ATP - Londra (MBR) : Brandon Nakashima vs Jack Draper",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "ATP - Halle (GER) : Alexander Bublik vs Tomas Machac",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Challenger - Royan (FRA) : Dimitar Kuzmanov vs Mika Brunold",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Challenger - Sassuolo (ITA) : Dusan Lajovic vs Rodrigo Pacheco Mendez",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "ATP - Halle (GER) - Double : S.Doumbia/F.Reboul vs F.Cabral/L.Miedler",
+                "channels": []
+            },
+            {
+                "time": "13:10",
+                "event": "ATP - Londra (MBR) - Double : D.Stevenson/M.Willis vs H.Heliovaara/H.Patten",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "Challenger - Poznan (POL) - Double : L.D.Martinez/F.Mena vs A.Jecan/B.Pavel",
+                "channels": []
+            },
+            {
+                "time": "14:10",
+                "event": "ATP - Halle (GER) : Tomas Martin Etcheverry vs Karen Khachanov",
+                "channels": []
+            },
+            {
+                "time": "14:50",
+                "event": "ATP - Londra (MBR) : Holger Rune vs Roberto Bautista Agut",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Challenger - Royan (FRA) : Daniel Merida Aguilar vs Titouan Droguet",
                 "channels": []
             }
         ],
@@ -1551,6 +1804,71 @@
             },
             {
                 "time": "21:00",
+                "event": "PFL World Tournament 5: Semi-Finals : Gadzhi Rabadanov vs Kevin Lee",
+                "channels": []
+            },
+            {
+                "time": "21:30",
+                "event": "PFL World Tournament : Alan Arturo Dominguez Garcia vs Nick Meck",
+                "channels": []
+            },
+            {
+                "time": "21:50",
+                "event": "PFL World Tournament : Saray Orozco vs Ilara Joanne",
+                "channels": []
+            },
+            {
+                "time": "22:10",
+                "event": "PFL World Tournament : Matheus Mattos vs Lazaro Dayron",
+                "channels": []
+            },
+            {
+                "time": "22:30",
+                "event": "PFL World Tournament : Darragh Kelly vs Mike Hamel",
+                "channels": []
+            },
+            {
+                "time": "22:50",
+                "event": "PFL World Tournament : Antonio Caruso vs Vinicius Cenci",
+                "channels": []
+            },
+            {
+                "time": "23:10",
+                "event": "PFL World Tournament : Magomed Magomedov vs Savarjon Hamidov",
+                "channels": []
+            },
+            {
+                "time": "23:30",
+                "event": "PFL World Tournament : Jena Bishop vs Katerina Shakalova",
+                "channels": []
+            },
+            {
+                "time": "23:50",
+                "event": "PFL World Tournament : Brent Primus vs Alfie Davis",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "PFL World Tournament 5: Semi-Finals : Gadzhi Rabadanov vs Kevin Lee",
+                "channels": []
+            },
+            {
+                "time": "00:10",
+                "event": "PFL World Tournament : Justin Wetzell vs Mando Gutierrez",
+                "channels": []
+            },
+            {
+                "time": "00:30",
+                "event": "PFL World Tournament : Jake Hadley vs Marcirley Alves Da Silva",
+                "channels": []
+            },
+            {
+                "time": "00:50",
+                "event": "PFL World Tournament : Liz Carmouche vs Elora Dana",
+                "channels": []
+            },
+            {
+                "time": "01:10",
                 "event": "PFL World Tournament 5: Semi-Finals : Gadzhi Rabadanov vs Kevin Lee",
                 "channels": []
             }
@@ -1762,7 +2080,7 @@
             },
             {
                 "time": "23:30",
-                "event": "WNBA : Washington Mystics vs Atlanta Dream",
+                "event": "WNBA : Washington Mystics W vs Atlanta Dream W",
                 "channels": []
             },
             {
@@ -1772,7 +2090,12 @@
             },
             {
                 "time": "02:00",
-                "event": "WNBA : Seattle Storm vs Las Vegas Aces",
+                "event": "WNBA : Seattle Storm W vs Las Vegas Aces W",
+                "channels": []
+            },
+            {
+                "time": "02:00",
+                "event": "CEBL Basketball : Winnipeg Sea Bears vs Vancouver Bandits",
                 "channels": []
             }
         ],
