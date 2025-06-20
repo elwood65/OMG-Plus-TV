@@ -855,7 +855,7 @@
             },
             {
                 "time": "21:00",
-                "event": "PFL World Tournament 5: Semi-Finals : Gadzhi Rabadanov vs Kevin Lee",
+                "event": "PFL World Tournament 6 : Semi-Finals : Gadzhi Rabadanov vs Kevin Lee",
                 "channels": []
             },
             {
@@ -900,7 +900,7 @@
             },
             {
                 "time": "00:00",
-                "event": "PFL World Tournament 5: Semi-Finals : Gadzhi Rabadanov vs Kevin Lee",
+                "event": "PFL World Tournament 6: Semi-Finals : Gadzhi Rabadanov vs Kevin Lee",
                 "channels": []
             },
             {
@@ -920,7 +920,7 @@
             },
             {
                 "time": "01:10",
-                "event": "PFL World Tournament 5: Semi-Finals : Gadzhi Rabadanov vs Kevin Lee",
+                "event": "PFL World Tournament 6: Semi-Finals : Gadzhi Rabadanov vs Kevin Lee",
                 "channels": []
             }
         ],
@@ -1782,7 +1782,7 @@
         ],
         "Tennis</span>": [
             {
-                "time": "21:06",
+                "time": "21:10",
                 "event": "ATP & WTA: ATP London & WTA Berlin Conference, Day 6",
                 "channels": []
             }
