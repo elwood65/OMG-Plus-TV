@@ -1,5 +1,32 @@
 {
     "Thursday 26th June 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "22:00",
+                "event": "Thursday Night Tunder IRP",
+                "channels": []
+            },
+            {
+                "time": "22:15",
+                "event": "Double Features Thunder Road",
+                "channels": []
+            },
+            {
+                "time": "22:45",
+                "event": "DIRTcar Summer Nationals Macon",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "2025 Kubota High Limit Racing at Lucas Oil Speedway",
+                "channels": []
+            },
+            {
+                "time": "23:45",
+                "event": "World of Outlaws Late Models I94 EMR",
+                "channels": []
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "15:00",
